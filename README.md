@@ -35,7 +35,7 @@ Require:
 ### ***System capacity of user1 and user2 at downlink***
 ![Systemcapacity](https://github.com/truong2307/Survey-noma-system/blob/main/Image/System%20capacity.png)
 
-V. Survey and result
+## V. Survey and result
 ### ***1. System shutdown probability***
 [Simulation System shutdown probability on mathlab](https://github.com/truong2307/Survey-noma-system/tree/main/System%20shutdown%20probability)
 ###### Result of user 1 and user 2 at downlink
