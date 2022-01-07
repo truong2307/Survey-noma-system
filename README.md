@@ -1,8 +1,11 @@
 # Survey-noma-system
 
+## Support by: Ha Dac Binh PhD
+
 [Docs project Vietnamese](https://github.com/truong2307/Survey-noma-system/blob/main/Docs/ReportFinal.pdf)
 -----------------------------------------------
-```
+```matlab
+
 Require: 
 - Knowledge about Probability math and statistics 
 - Matlab
