@@ -1,9 +1,9 @@
 # Survey-noma-system
 
 ## Support by: Ha Dac Binh PhD
-###### K23-EVT 2021
+###### Duy Tan University K23-EVT 2021
 
-[Docs project Vietnamese](https://github.com/truong2307/Survey-noma-system/blob/main/Docs/ReportFinal.pdf)
+[Docs Vietnamese](https://github.com/truong2307/Survey-noma-system/blob/main/Docs/ReportFinal.pdf)
 -----------------------------------------------
 ```matlab
 
