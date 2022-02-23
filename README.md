@@ -52,7 +52,6 @@ Require:
 ###### Result of user 1 and user 2 at downlink
 ![resultSystemcapacitydownlink](https://github.com/truong2307/Survey-noma-system/blob/main/Image/resultSystemcapacity.png)
 --------------------------------
-# HAVE FUN!
 
 
 
